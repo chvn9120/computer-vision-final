@@ -2,9 +2,9 @@
 
 ## Tổng quan
 
-- Đồ án sử dụng mô hình kết CNN (Convolutional Neural Networks) - LSTM (Long short term memory) để tạo các tiêu đề cho ảnh. Trong đó, việc trích xuất các đặc trưng của ảnh sẽ sử dụng Xception - là một mô hình CNN được huấn luyện dựa trên bộ dữ liệu imageet và mô hình LSTM sẽ được sử dụng để tạo ra tiêu đề cho ảnh.
+- Đồ án sử dụng mô hình kết hợp CNN (Convolutional Neural Networks) - LSTM (Long short term memory) để tạo các tiêu đề cho ảnh. Trong đó, việc trích xuất các đặc trưng của ảnh sẽ sử dụng Xception - là một mô hình CNN được huấn luyện dựa trên bộ dữ liệu imagenet và mô hình LSTM sẽ được sử dụng để tạo ra tiêu đề cho ảnh.
 
-- Ngoài ra để tăng thêm tính sinh động cho đồ án thì đồ án còn được xây dựng kết hợp thêm module web với (Flask - Python Framework và ReactJS - thư viện javascript front-end) để tải ảnh lên và hiển thị tiêu đề của mô hình trên website.
+- Ngoài ra để tăng thêm tính sinh động cho đồ án thì đồ án còn được xây dựng kết hợp thêm module web với (Flask - Python Framework và ReactJS - thư viện javascript front-end) để tải ảnh lên và hiển thị tiêu đề của ảnh trên website.
 
 ## Các điều kiện tiên quyết
 
