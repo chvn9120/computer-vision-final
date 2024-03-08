@@ -17,8 +17,8 @@
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS Logo](https://img.shields.io/badge/css-1572b6?style=for-the-badge&logo=css3&logoColor=ffffff)
-![Bootstrap 4.6 Logo](https://img.shields.io/badge/Bootstrap-%237952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
-![ReactJS Logo](https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white)
+![Bootstrap 4.6 Logo](https://img.shields.io/badge/Bootstrap%204.6-%237952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
+![ReactJS Logo](https://img.shields.io/badge/ReactJS-%2361DAFB.svg?&style=for-the-badge&logo=reactjs&logoColor=white)
 ![Python Logo](https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
 
 ## Các bước để chạy project
