@@ -28,6 +28,7 @@ Clone project về và mở lên với VS Code
 Bước 1: Mở terminal lên và di chuyển đến module website bằng cách gõ lệnh `cd .\website\`.
 
 Ảnh mẫu:
+
 ![Alt text](/resources/image.png)
 
 Bước 2: Gõ lệnh `pnpm i` để cài các dependency cần thiết để chạy project (Hoặc dùng các công cụ khác như `npm i` hoặc `yarn i`).
@@ -35,14 +36,17 @@ Bước 2: Gõ lệnh `pnpm i` để cài các dependency cần thiết để ch
 Bước 3: Gõ lệnh `pnpm start` hoặc `npm start` hoặc `yarn start` để launch project.
 
 Ảnh mẫu (terminal nên trông như thế này sau khi chạy thành công):
+
 ![Alt text](/resources/image-1.png)
 
 Ảnh mẫu giao diện:
+
 ![Alt text](/resources/image-2.png)
 
 `*Lưu ý: port mặc định của ReactJS là 3000, nếu bạn muốn thay đổi project ở PORT khác thì vẫn trong thư mục website, tạo file mới và đặt tên là .env.anythingyouwant sau đó gõ PORT=<port-you-want>`
 
 Ảnh mẫu:
+
 ![Alt text](/resources/image-3.png)
 
 ### Module server
@@ -54,14 +58,17 @@ Bước 2: Tại cửa sổ mới này. Tạo thư mục `.venv` và tiến hàn
 `*Lưu ý: Bước này sẽ khá mất thời gian do các thư viện được sử dụng khá nặng.`
 
 Ảnh mẫu:
+
 ![Alt text](/resources/image-4.png)
 
 Và terminal nên trông như thế này do lần đầu cài đặt (Ở các lần sau chúng ta sẽ cần active lại venv với lệnh `.venv/Scripts/Activate.ps1` mà không cài đặt lại nữa)
+
 ![Alt text](/resources/image-5.png)
 
 Bước 3: Gõ lệnh `py main.py` ở cửa sổ VS Code ban đầu hoặc cửa sổ mới để launch server đều được.
 
 Ảnh mẫu cả project:
+
 ![Alt text](/resources/image-6.png)
 
 ## License
